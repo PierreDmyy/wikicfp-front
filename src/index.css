@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.input-wrap{
+  margin-top : 30px;
+}
+.dl-btn{
+  margin-left : 5px;
+}
+.searchresult{
+  margin-top:30px;
+}
+
+.color-nav {
+  background-color: #33333
+}
